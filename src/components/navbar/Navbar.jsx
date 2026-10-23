@@ -46,7 +46,7 @@ function Navbar() {
           <RiCloseLine
             color='#fff'
             size={27}
-            onClick={() => setToggleMenu(false)}p
+            onClick={() => setToggleMenu(false)}
           />
         ) : (
           <RiMenu3Line
